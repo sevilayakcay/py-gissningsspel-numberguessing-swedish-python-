@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+
+# MacOS sistem dosyaları
+.DS_Store
+
+# IDE / editor dosyaları
+.vscode/
+.idea/
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
